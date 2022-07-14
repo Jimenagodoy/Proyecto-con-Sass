@@ -1,0 +1,22 @@
+@import url("https://fonts.googleapis.com/css2? family= Inter:wght@100 & display=swap");
+@import url("https://fonts.googleapis.com/css2? family= Abril+Fatface & display=swap");
+
+
+.card {
+  background-color: #4e9467;
+  font-family: "Abril+Fatface", cursive; }
+
+.navbar {
+  background-color: #4e9467;
+  display: flex;
+  justify-content: space-between;
+  align-items: center; }
+
+h1 {
+  color: #BF7AC2; }
+
+body {
+  background-image: url(../img/hojas.jpg);
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  background-size: cover; }

@@ -1,0 +1,19 @@
+@import "_fonts";
+@import "_vars";
+@import "_footer";
+@import "_navBar";
+
+
+h1{
+ color: $keyColor;
+  }
+
+
+body{
+	background-image: url(../img/hojas.jpg);
+	background-attachment: fixed;
+	background-repeat: no-repeat;
+	background-size: cover;
+
+}
+
